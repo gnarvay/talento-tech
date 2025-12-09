@@ -1,21 +1,15 @@
 import {useEffect, useState} from "react";
-import {ItemList} from "./ItemList";
+import {useParams} from "react-router-dom";
+import {ItemList} from "./ItemList.jsx";
+import {getProducts} from "../services/products.js";
 
-export function ItemListContainer({titulo}){
+function ItemListContainer({titulo}){
   const [pokemon, setPokemon] = useState([]);
+  const {family} = useParams();
+
   useEffect(() => {
-    fetch("/data/pokemon.json")
-      .then((res) => {
-        if(!res.ok){
-          throw new Error("Hubo un problema al buscar productos");
-        }
-        return res.json();
-      }).then((data) => {
-        setPokemon(data);
-      }).catch((err) => {
-        console.log(err);
-      });
-  }, []);
+    getProducts(family).then((data) => setPokemon(data)).catch((err) => console.log(err));
+  }, [family]);
 
   return (
     <div className="container">
@@ -26,3 +20,5 @@ export function ItemListContainer({titulo}){
     </div>
   );
 };
+
+export {ItemListContainer}

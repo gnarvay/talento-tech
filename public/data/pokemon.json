@@ -1,194 +1,194 @@
 [
   {
     "id": "bulbasaur",
-    "pokedex_id": 1,
+    "pokedex": "1",
     "price": 181,
-    "category": "Fantasma",
+    "family": "fantasma",
     "description": "Un Pokémon con una semilla en su espalda que crece con el tiempo.",
-    "imageUrl": "/assets/p1.png"
-  },
-  {
-    "id": "blastoise",
-    "pokedex_id": 9,
-    "price": 213,
-    "category": "Siniestro",
-    "description": "Aumenta de peso para contrarrestar la fuerza de los chorros de agua que dispara.",
-    "imageUrl": "/assets/p9.png"
-  },
-  {
-    "id": "vaporeon",
-    "pokedex_id": 134,
-    "price": 202,
-    "category": "Eléctrico",
-    "description": "Evolución acuática de Eevee, se mimetiza y vive en cuerpos de agua.",
-    "imageUrl": "/assets/p134.png"
+    "imageUrl": "https://i.ibb.co/hFrL39kx/p1.png"
   },
   {
     "id": "pikachu",
-    "pokedex_id": 25,
+    "pokedex": "25",
     "price": 229,
-    "category": "Eléctrico",
+    "family": "electrico",
     "description": "El Pokémon insignia, conocido por almacenar electricidad en sus mejillas.",
-    "imageUrl": "/assets/p25.png"
-  },
-  {
-    "id": "charizard",
-    "pokedex_id": 6,
-    "price": 190,
-    "category": "Psíquico",
-    "description": "Dragón de fuego que vuela y lanza llamaradas devastadoras.",
-    "imageUrl": "/assets/p6.png"
-  },
-  {
-    "id": "eevee",
-    "pokedex_id": 133,
-    "price": 227,
-    "category": "Siniestro",
-    "description": "Un Pokémon adaptable con muchas evoluciones posibles.",
-    "imageUrl": "/assets/p133.png"
-  },
-  {
-    "id": "mewtwo",
-    "pokedex_id": 150,
-    "price": 194,
-    "category": "Psíquico",
-    "description": "Un Pokémon creado genéticamente con poderes psíquicos asombrosos.",
-    "imageUrl": "/assets/p150.png"
-  },
-  {
-    "id": "gengar",
-    "pokedex_id": 94,
-    "price": 177,
-    "category": "Fantasma",
-    "description": "Fantasma sombrío y travieso que aparece en la oscuridad y ríe en combate.",
-    "imageUrl": "/assets/p94.png"
-  },
-  {
-    "id": "squirtle",
-    "pokedex_id": 7,
-    "price": 154,
-    "category": "Psíquico",
-    "description": "Tortuga acuática que dispara chorros de agua a presión.",
-    "imageUrl": "/assets/p7.png"
-  },
-  {
-    "id": "charmander",
-    "pokedex_id": 4,
-    "price": 208,
-    "category": "Siniestro",
-    "description": "Lagartija de fuego cuya cola siempre arde con una llama viva.",
-    "imageUrl": "/assets/p4.png"
+    "imageUrl": "https://i.ibb.co/QjhCJ7hB/p25.png"
   },
   {
     "id": "snorlax",
-    "pokedex_id": 143,
+    "pokedex": "143",
     "price": 198,
-    "category": "Fantasma",
-    "description": "Enorme Pokémon dormilón que bloquea caminos al dormir.",
-    "imageUrl": "/assets/p143.png"
+    "family": "fantasma",
+    "description": "Enorme Pokémon dormilón que bloquea caminos al dormir y escucha Faith No More.",
+    "imageUrl": "https://i.ibb.co/yFGbkp5v/p143.png"
+  },
+  {
+    "id": "charizard",
+    "pokedex": "6",
+    "price": 190,
+    "family": "psiquico",
+    "description": "Dragón de fuego que vuela y lanza llamaradas devastadoras.",
+    "imageUrl": "https://i.ibb.co/DgHbrYP9/p6.png"
+  },
+  {
+    "id": "blastoise",
+    "pokedex": "9",
+    "price": 213,
+    "family": "siniestro",
+    "description": "Aumenta de peso para contrarrestar la fuerza de los chorros de agua que dispara.",
+    "imageUrl": "https://i.ibb.co/8LprGN9H/p9.png"
   },
   {
     "id": "lapras",
-    "pokedex_id": 131,
+    "pokedex": "131",
     "price": 232,
-    "category": "Psíquico",
+    "family": "psiquico",
     "description": "Un Pokémon marino usado como transporte acuático, amable y protector.",
-    "imageUrl": "/assets/p131.png"
+    "imageUrl": "https://i.ibb.co/8ntr8dF2/p131.png"
+  },
+  {
+    "id": "vaporeon",
+    "pokedex": "134",
+    "price": 202,
+    "family": "electrico",
+    "description": "Evolución acuática de Eevee, se mimetiza y vive en cuerpos de agua.",
+    "imageUrl": "https://i.ibb.co/rDyth9M/p134.png"
+  },
+  {
+    "id": "eevee",
+    "pokedex": "133",
+    "price": 227,
+    "family": "siniestro",
+    "description": "Un Pokémon adaptable con muchas evoluciones posibles.",
+    "imageUrl": "https://i.ibb.co/HL3JpnPN/p133.png"
+  },
+  {
+    "id": "mewtwo",
+    "pokedex": "150",
+    "price": 194,
+    "family": "psiquico",
+    "description": "Un Pokémon creado genéticamente con poderes psíquicos asombrosos.",
+    "imageUrl": "https://i.ibb.co/zhVZ2TGX/p150.png"
+  },
+  {
+    "id": "gengar",
+    "pokedex": "94",
+    "price": 177,
+    "family": "fantasma",
+    "description": "Fantasma sombrío y travieso que aparece en la oscuridad y ríe en combate.",
+    "imageUrl": "https://i.ibb.co/7xQQJ775/p94.png"
+  },
+  {
+    "id": "squirtle",
+    "pokedex": "7",
+    "price": 154,
+    "family": "psiquico",
+    "description": "Tortuga acuática que dispara chorros de agua a presión.",
+    "imageUrl": "https://i.ibb.co/tMRZwVcc/p7.png"
+  },
+  {
+    "id": "charmander",
+    "pokedex": "4",
+    "price": 208,
+    "family": "siniestro",
+    "description": "Lagartija de fuego cuya cola siempre arde con una llama viva.",
+    "imageUrl": "https://i.ibb.co/fdFq5VnR/p4.png"
   },
   {
     "id": "gyarados",
-    "pokedex_id": 130,
+    "pokedex": "130",
     "price": 165,
-    "category": "Siniestro",
+    "family": "siniestro",
     "description": "Un Pokémon feroz que evoluciona de un humilde Magikarp.",
-    "imageUrl": "/assets/p130.png"
+    "imageUrl": "https://i.ibb.co/QStxKW3/p130.png"
   },
   {
     "id": "umbreon",
-    "pokedex_id": 197,
+    "pokedex": "197",
     "price": 187,
-    "category": "Siniestro",
+    "family": "siniestro",
     "description": "Una evolución oscura de Eevee que se activa durante la noche.",
-    "imageUrl": "/assets/p197.png"
+    "imageUrl": "https://i.ibb.co/hxJDYthH/p197.png"
   },
   {
     "id": "mew",
-    "pokedex_id": 151,
+    "pokedex": "151",
     "price": 218,
-    "category": "Psíquico",
+    "family": "psiquico",
     "description": "Un Pokémon legendario que contiene el ADN de todos los Pokémon.",
-    "imageUrl": "/assets/p151.png"
+    "imageUrl": "https://i.ibb.co/6RXzsCGY/p151.png"
   },
   {
     "id": "jigglypuff",
-    "pokedex_id": 39,
+    "pokedex": "39",
     "price": 200,
-    "category": "Eléctrico",
-    "description": "Canta dulces melodías que hacen dormir a quien la escuche.",
-    "imageUrl": "/assets/p39.png"
+    "family": "electrico",
+    "description": "Canta dulces melodías cual Ozzy Osbourne que hacen dormir a quien la escuche.",
+    "imageUrl": "https://i.ibb.co/0jBBstbK/p39.png"
   },
   {
     "id": "lucario",
-    "pokedex_id": 448,
+    "pokedex": "448",
     "price": 158,
-    "category": "Fantasma",
-    "description": "Guerrero que siente el aura y lucha con técnicas refinadas.",
-    "imageUrl": "/assets/p448.png"
+    "family": "fantasma",
+    "description": "Guerrero que siente el aura, lucha con técnicas refinadas y ama el sushi.",
+    "imageUrl": "https://i.ibb.co/HpXxzbpL/p448.png"
   },
   {
     "id": "alakazam",
-    "pokedex_id": 65,
+    "pokedex": "65",
     "price": 203,
-    "category": "Psíquico",
-    "description": "Un Pokémon muy inteligente con cucharas que amplifican su poder.",
-    "imageUrl": "/assets/p65.png"
+    "family": "psiquico",
+    "description": "Un Pokémon muy inteligente con cucharas de Nutella que amplifican su poder.",
+    "imageUrl": "https://i.ibb.co/BHLxxDCk/p65.png"
   },
   {
     "id": "dragonite",
-    "pokedex_id": 149,
+    "pokedex": "149",
     "price": 219,
-    "category": "Fantasma",
-    "description": "Un dragón amistoso y poderoso que vuela grandes distancias.",
-    "imageUrl": "/assets/p149.png"
+    "family": "fantasma",
+    "description": "Un dragón amistoso y poderoso que vuela grandes distancias y toma Cream Stout.",
+    "imageUrl": "https://i.ibb.co/wFkfp9LD/p149.png"
   },
   {
     "id": "machamp",
-    "pokedex_id": 68,
+    "pokedex": "68",
     "price": 166,
-    "category": "Eléctrico",
-    "description": "Luchador con cuatro brazos, domina el combate cuerpo a cuerpo.",
-    "imageUrl": "/assets/p68.png"
+    "family": "electrico",
+    "description": "Luchador con cuatro brazos, domina el combate cuerpo a cuerpo y fan del fernet.",
+    "imageUrl": "https://i.ibb.co/gZBZ3hp3/p68.png"
   },
   {
     "id": "arcanine",
-    "pokedex_id": 59,
+    "pokedex": "59",
     "price": 226,
-    "category": "Siniestro",
+    "family": "siniestro",
     "description": "Majestuoso Pokémon de fuego, corre más rápido que el sonido y es admirado desde tiempos antiguos.",
-    "imageUrl": "/assets/p59.png"
+    "imageUrl": "https://i.ibb.co/r2msPnn5/p59.png"
   },
   {
     "id": "jolteon",
-    "pokedex_id": 135,
+    "pokedex": "135",
     "price": 173,
-    "category": "Eléctrico",
+    "family": "electrico",
     "description": "Una evolución de Eevee, rápida, espinosa y que emite descargas eléctricas.",
-    "imageUrl": "/assets/p135.png"
+    "imageUrl": "https://i.ibb.co/Z1RF5nD5/p135.png"
   },
 {
     "id": "sylveon",
-    "pokedex_id": 700,
+    "pokedex": "700",
     "price": 235,
-    "category": "Fantasma",
+    "family": "fantasma",
     "description": "Pokémon hada que usa sus lazos encantadores para calmar a sus aliados.",
-    "imageUrl": "/assets/p700.png"
+    "imageUrl": "https://i.ibb.co/ynfV8hYv/p700.png"
   },
   {
     "id": "abra",
-    "pokedex_id": 63,
+    "pokedex": "63",
     "price": 196,
-    "category": "Psíquico",
+    "family": "psiquico",
     "description": "Duerme casi todo el día, y se teletransporta si se asusta.",
-    "imageUrl": "/assets/p63.png"
+    "imageUrl": "https://i.ibb.co/VYhfH7NN/p63.png"
   }
 ]
