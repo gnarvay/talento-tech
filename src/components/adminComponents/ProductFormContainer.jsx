@@ -1,6 +1,6 @@
 import {useState} from "react";
 import {ProductFormUI} from "./ProductFormUI.jsx";
-import {validateProduct} from "../../utils.js";
+import {slugi, validateProduct} from "../../utils.js";
 import {uploadToImgbb} from "../../services/uploadImage.js";
 import {createProduct} from "../../services/products.js";
 
@@ -36,6 +36,7 @@ export function ProductFormContainer(){
       const productData = {
         ...product,
         price: Number(product.price),
+        family: slugi(product.family),
         imageUrl
       };
 
